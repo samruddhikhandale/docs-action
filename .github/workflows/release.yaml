@@ -1,6 +1,9 @@
 name: "Release dev container features & Generate Documentation"
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
   deploy:
@@ -14,7 +17,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: "Publish Features"
-        uses: devcontainers/action@v1
+        uses: ./.github/devcontainers-action
         with:
           publish-features: "true"
           base-path-to-features: "./src"
