@@ -18205,11 +18205,11 @@
                     if (srcInfo.owner && srcInfo.repo) {
                         urlToConfig = `https://github.com/${srcInfo.owner}/${srcInfo.repo}/blob/main/${basePathTrimmed}/${f}/${metadataFile}`;
                     }
-                    let header = '';
+                    let header = '\n';
                     const isDeprecated = parsedJson === null || parsedJson === void 0 ? void 0 : parsedJson.deprecated;
                     const hasLegacyIds = (parsedJson === null || parsedJson === void 0 ? void 0 : parsedJson.legacyIds) && (parsedJson === null || parsedJson === void 0 ? void 0 : parsedJson.legacyIds.length) > 0;
                     if (isDeprecated || hasLegacyIds) {
-                        header = '## **IMPORTANT NOTE**\n';
+                        header = '\n## **IMPORTANT NOTE**\n';
                         if (isDeprecated) {
                             header += `- **This Feature is deprecated, and will no longer receive any further updates/support.**\n`;
                         }
