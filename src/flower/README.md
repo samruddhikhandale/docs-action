@@ -1,6 +1,7 @@
 
 # Hello, World! (hello)
 
+
 A hello world feature
 
 ## Example Usage
@@ -21,4 +22,4 @@ A hello world feature
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/samruddhikhandale/docs-action/blob/main/src/hello/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/samruddhikhandale/docs-action/blob/main/src/flower/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

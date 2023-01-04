@@ -1,5 +1,6 @@
 
-# Hello, World! (hello)
+# Flower! (flower)
+
 
 A hello world feature
 
@@ -7,7 +8,7 @@ A hello world feature
 
 ```json
 "features": {
-    "ghcr.io/samruddhikhandale/docs-action/hello:1": {}
+    "ghcr.io/samruddhikhandale/docs-action/flower:1": {}
 }
 ```
 
