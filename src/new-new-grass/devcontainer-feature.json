@@ -1,7 +1,7 @@
 {
     "name": "Grass!",
     "id": "new-new-grass",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A hello world feature",
     "options": {
         "greeting": {
