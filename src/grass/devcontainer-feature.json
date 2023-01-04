@@ -1,0 +1,20 @@
+{
+    "name": "Grass!",
+    "id": "grass",
+    "version": "1.0.0",
+    "description": "A hello world feature",
+    "options": {
+        "greeting": {
+            "type": "string",
+            "proposals": [
+                "hey",
+                "hello",
+                "hi",
+                "howdy"
+            ],
+            "default": "hey",
+            "description": "Select a pre-made greeting, or enter your own"
+        }
+    },
+    "deprecated": false
+}
