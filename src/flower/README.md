@@ -1,6 +1,9 @@
 
 # Flower! (flower)
 
+## **IMPORTANT NOTE**
+- **This Feature is deprecated, and will no longer receive any further updates/support.**
+
 A hello world feature
 
 ## Example Usage
