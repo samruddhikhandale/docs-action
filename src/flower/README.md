@@ -1,5 +1,8 @@
 
-# Hello, World! (hello)
+# Flower! (flower)
+
+## **IMPORTANT NOTE**
+- **This Feature is deprecated, and will no longer receive any further updates/support.**
 
 A hello world feature
 
@@ -7,7 +10,7 @@ A hello world feature
 
 ```json
 "features": {
-    "ghcr.io/samruddhikhandale/docs-action/hello:1": {}
+    "ghcr.io/samruddhikhandale/docs-action/flower:1": {}
 }
 ```
 
@@ -21,4 +24,4 @@ A hello world feature
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/samruddhikhandale/docs-action/blob/main/src/flower/devcontainer-feature.json). Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/samruddhikhandale/docs-action/blob/main/src/flower/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
