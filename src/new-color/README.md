@@ -1,5 +1,8 @@
 
-# My Favorite Color (color)
+### **IMPORTANT NOTE**
+- **Ids used to publish this Feature in the past - 'color'**
+
+# My Favorite Color (new-color)
 
 A feature to remind you of your favorite color
 
@@ -7,7 +10,7 @@ A feature to remind you of your favorite color
 
 ```json
 "features": {
-    "ghcr.io/samruddhikhandale/docs-action/color:1": {}
+    "ghcr.io/samruddhikhandale/docs-action/new-color:1": {}
 }
 ```
 
@@ -21,4 +24,4 @@ A feature to remind you of your favorite color
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/samruddhikhandale/docs-action/blob/main/src/color/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/samruddhikhandale/docs-action/blob/main/src/new-color/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
