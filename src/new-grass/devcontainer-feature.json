@@ -1,6 +1,6 @@
 {
     "name": "Grass!",
-    "id": "grass",
+    "id": "new-grass",
     "version": "1.0.0",
     "description": "A hello world feature",
     "options": {
@@ -16,5 +16,8 @@
             "description": "Select a pre-made greeting, or enter your own"
         }
     },
-    "deprecated": false
+    "deprecated": false,
+    "legacyIds": [
+        "grass"
+    ]
 }
