@@ -1,6 +1,6 @@
 {
-    "name": "Hello, World!",
-    "id": "hello",
+    "name": "Flower!",
+    "id": "flower",
     "version": "1.0.2",
     "description": "A hello world feature",
     "options": {
