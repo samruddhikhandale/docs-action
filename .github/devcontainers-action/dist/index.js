@@ -18100,9 +18100,9 @@
     const path = __importStar(__nccwpck_require__(1017));
     const utils_1 = __nccwpck_require__(1314);
     const FEATURES_README_TEMPLATE = `
-    #{Header}
     # #{Name}
     
+    #{Header}
     #{Description}
     
     ## Example Usage
