@@ -1,7 +1,7 @@
 {
     "name": "Hello, World!",
-    "id": "hello",
-    "version": "1.0.3",
+    "id": "new-hello",
+    "version": "1.0.5",
     "description": "A hello world feature",
     "options": {
         "greeting": {
@@ -15,5 +15,9 @@
             "default": "hey",
             "description": "Select a pre-made greeting, or enter your own"
         }
-    }
+    },
+    "legacyIds": [
+        "hello"
+    ],
+    "deprecated": true
 }

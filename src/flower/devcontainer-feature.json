@@ -1,7 +1,7 @@
 {
     "name": "Flower!",
     "id": "flower",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A hello world feature",
     "options": {
         "greeting": {
@@ -15,5 +15,6 @@
             "default": "hey",
             "description": "Select a pre-made greeting, or enter your own"
         }
-    }
+    },
+    "deprecated": true
 }
