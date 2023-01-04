@@ -1,7 +1,7 @@
 {
     "name": "Sky!",
     "id": "sky",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A hello world feature",
     "options": {
         "greeting": {
@@ -15,6 +15,5 @@
             "default": "hey",
             "description": "Select a pre-made greeting, or enter your own"
         }
-    },
-    "deprecated": true
+    }
 }
