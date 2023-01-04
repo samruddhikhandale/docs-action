@@ -1,5 +1,9 @@
 
-# Hello, World! (hello)
+### **IMPORTANT NOTE**
+- **This Feature is deprecated, and will no longer receive any further updates/support.**
+- **Ids used to publish this Feature in the past - 'hello'**
+
+# Hello, World! (new-hello)
 
 A hello world feature
 
@@ -7,7 +11,7 @@ A hello world feature
 
 ```json
 "features": {
-    "ghcr.io/samruddhikhandale/docs-action/hello:1": {}
+    "ghcr.io/samruddhikhandale/docs-action/new-hello:1": {}
 }
 ```
 
@@ -21,4 +25,4 @@ A hello world feature
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/samruddhikhandale/docs-action/blob/main/src/hello/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/samruddhikhandale/docs-action/blob/main/src/new-hello/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
