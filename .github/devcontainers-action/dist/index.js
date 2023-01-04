@@ -18101,7 +18101,6 @@
     const utils_1 = __nccwpck_require__(1314);
     const FEATURES_README_TEMPLATE = `
     # #{Name}
-    
     #{Header}
     #{Description}
     
